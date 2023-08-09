@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.448ac8f3.css",
-    "main.js": "/static/js/main.86040628.js",
-    "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
-    "static/media/tapp.png": "/static/media/tapp.c7d3fe7affa982bea0c0.png",
-    "static/media/tiktok.png": "/static/media/tiktok.14b9a5c64a1cc1f75cb6.png",
-    "static/media/rdapp.png": "/static/media/rdapp.5ba953b93767bebc4701.png",
-    "static/media/tic-tac-toe.png": "/static/media/tic-tac-toe.bbf5deb0b951f1142531.png",
-    "static/media/pixel.png": "/static/media/pixel.49d4f8af6f66f2b7793f.png",
-    "static/media/planner.png": "/static/media/planner.6475a756268e9f311893.png",
-    "static/media/webpage.png": "/static/media/webpage.10e28090497bd4959deb.png",
-    "static/media/todolist.png": "/static/media/todolist.9b828aa9990d79f599ff.png",
-    "static/media/NUS.png": "/static/media/NUS.8fbc6d959acf245724ca.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/github.svg": "/static/media/github.b3c5f84a370dbec03cee.svg",
-    "index.html": "/index.html",
-    "static/media/linkedin.svg": "/static/media/linkedin.5cc3cae112e44ab619a3.svg",
-    "main.448ac8f3.css.map": "/static/css/main.448ac8f3.css.map",
-    "main.86040628.js.map": "/static/js/main.86040628.js.map",
-    "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
+    "main.css": "/tzejit.github.io/website/static/css/main.448ac8f3.css",
+    "main.js": "/tzejit.github.io/website/static/js/main.416df54e.js",
+    "static/js/787.71e672d5.chunk.js": "/tzejit.github.io/website/static/js/787.71e672d5.chunk.js",
+    "static/media/tapp.png": "/tzejit.github.io/website/static/media/tapp.c7d3fe7affa982bea0c0.png",
+    "static/media/tiktok.png": "/tzejit.github.io/website/static/media/tiktok.14b9a5c64a1cc1f75cb6.png",
+    "static/media/rdapp.png": "/tzejit.github.io/website/static/media/rdapp.5ba953b93767bebc4701.png",
+    "static/media/tic-tac-toe.png": "/tzejit.github.io/website/static/media/tic-tac-toe.bbf5deb0b951f1142531.png",
+    "static/media/pixel.png": "/tzejit.github.io/website/static/media/pixel.49d4f8af6f66f2b7793f.png",
+    "static/media/planner.png": "/tzejit.github.io/website/static/media/planner.6475a756268e9f311893.png",
+    "static/media/webpage.png": "/tzejit.github.io/website/static/media/webpage.10e28090497bd4959deb.png",
+    "static/media/todolist.png": "/tzejit.github.io/website/static/media/todolist.9b828aa9990d79f599ff.png",
+    "static/media/NUS.png": "/tzejit.github.io/website/static/media/NUS.8fbc6d959acf245724ca.png",
+    "static/media/logo.svg": "/tzejit.github.io/website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/github.svg": "/tzejit.github.io/website/static/media/github.b3c5f84a370dbec03cee.svg",
+    "index.html": "/tzejit.github.io/website/index.html",
+    "static/media/linkedin.svg": "/tzejit.github.io/website/static/media/linkedin.5cc3cae112e44ab619a3.svg",
+    "main.448ac8f3.css.map": "/tzejit.github.io/website/static/css/main.448ac8f3.css.map",
+    "main.416df54e.js.map": "/tzejit.github.io/website/static/js/main.416df54e.js.map",
+    "787.71e672d5.chunk.js.map": "/tzejit.github.io/website/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.448ac8f3.css",
-    "static/js/main.86040628.js"
+    "static/js/main.416df54e.js"
   ]
 }
