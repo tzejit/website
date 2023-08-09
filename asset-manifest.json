@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tzejit.github.io/website/static/css/main.448ac8f3.css",
-    "main.js": "/tzejit.github.io/website/static/js/main.416df54e.js",
+    "main.js": "/tzejit.github.io/website/static/js/main.c1b6d45f.js",
     "static/js/787.71e672d5.chunk.js": "/tzejit.github.io/website/static/js/787.71e672d5.chunk.js",
     "static/media/tapp.png": "/tzejit.github.io/website/static/media/tapp.c7d3fe7affa982bea0c0.png",
     "static/media/tiktok.png": "/tzejit.github.io/website/static/media/tiktok.14b9a5c64a1cc1f75cb6.png",
@@ -17,11 +17,11 @@
     "index.html": "/tzejit.github.io/website/index.html",
     "static/media/linkedin.svg": "/tzejit.github.io/website/static/media/linkedin.5cc3cae112e44ab619a3.svg",
     "main.448ac8f3.css.map": "/tzejit.github.io/website/static/css/main.448ac8f3.css.map",
-    "main.416df54e.js.map": "/tzejit.github.io/website/static/js/main.416df54e.js.map",
+    "main.c1b6d45f.js.map": "/tzejit.github.io/website/static/js/main.c1b6d45f.js.map",
     "787.71e672d5.chunk.js.map": "/tzejit.github.io/website/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.448ac8f3.css",
-    "static/js/main.416df54e.js"
+    "static/js/main.c1b6d45f.js"
   ]
 }
