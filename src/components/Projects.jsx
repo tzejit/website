@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import '../index.css'
-import LogoHeader from "./LogoHeader";
 import { Box, Grid } from "@mui/material";
 import ProjectButton from "./ProjectButton";
 
